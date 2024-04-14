@@ -1,2 +1,4 @@
-This is the sample document.
-Thanks for learning the Git!. Pls go ahead.
+
+Git
+GitHub
+
