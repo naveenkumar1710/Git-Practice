@@ -1,1 +1,2 @@
 This is the sample document.
+Thank for learning the git!. Pls go ahead.
